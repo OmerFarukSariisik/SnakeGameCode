@@ -1,0 +1,4 @@
+{
+	"name": "TheSnake.Managers",
+	"references":[ "GUID:78671fc114b8388479b6f092fe61364a", "GUID:fd4c0cd85dedf8e43aec39601b3af8d9", "GUID:f51ebe6a0ceec4240a699833d6309b23", "GUID:863a09be045b4984cb03a5bd66ad1af4" ]
+}
